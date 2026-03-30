@@ -1,0 +1,17 @@
+BIODATA MAHASISWA
+
+Nama Lengkap        : Ekamanda
+NIM                 : 2306700026
+Program Studi       : Informatika
+Fakultas            : Teknik
+Tempat, Tgl Lahir   : Subang, 21 Agustus 2004
+Jenis Kelamin       : Perempuan
+Alamat              : Jalan Panji Cilaja
+Email               : manusiasuperr03@gmail.com
+
+Hobi                : Baca buku klo lagi luang waktu
+Bakat               : Bisa baca ekspresi orang
+Fokus               : Bisa fokus klo lagi serius
+
+Motto:
+"Kalo orang lain gabisa, saya harus bisa"
